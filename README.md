@@ -1,1 +1,1 @@
-# Final project for UIT Python Programming Techniques course (IE221) 
+Final project for UIT Python Programming Techniques course (IE221) 
