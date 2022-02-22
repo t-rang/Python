@@ -1,4 +1,4 @@
-# Final project for UIT Python Programming Techniques course (IE221)
+# Final project for UIT Python Programming Techniques (IE221)
 
 Library used: pandas, matplotlib, seaborn, TextBlob, scattertext, spaCy
 
